@@ -9,7 +9,7 @@ This project focuses on predicting microplastic (MP) concentrations in various c
 
 The project implements and evaluates the following machine learning models:
 
-1.  **Ordinal Logistic Regression**
+1.  **Ordinal Logistic Regression** - Didn't work well due to failure in proportional odds assumption
 2.  **Random Forest**
 3.  **Support Vector Machine (SVM)**
 4.  **Boosting (XGBoost)**
